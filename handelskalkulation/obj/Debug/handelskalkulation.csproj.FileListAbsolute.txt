@@ -1,0 +1,9 @@
+C:\Users\dirk\Desktop\sync\lehrer\unterricht\software\bszet\handelskalkulation\handelskalkulation\bin\Debug\handelskalkulation.exe.config
+C:\Users\dirk\Desktop\sync\lehrer\unterricht\software\bszet\handelskalkulation\handelskalkulation\bin\Debug\handelskalkulation.exe
+C:\Users\dirk\Desktop\sync\lehrer\unterricht\software\bszet\handelskalkulation\handelskalkulation\bin\Debug\handelskalkulation.pdb
+C:\Users\dirk\Desktop\sync\lehrer\unterricht\software\bszet\handelskalkulation\handelskalkulation\obj\Debug\handelskalkulation.frm_handelskalkulation.resources
+C:\Users\dirk\Desktop\sync\lehrer\unterricht\software\bszet\handelskalkulation\handelskalkulation\obj\Debug\handelskalkulation.Properties.Resources.resources
+C:\Users\dirk\Desktop\sync\lehrer\unterricht\software\bszet\handelskalkulation\handelskalkulation\obj\Debug\handelskalkulation.csproj.GenerateResource.cache
+C:\Users\dirk\Desktop\sync\lehrer\unterricht\software\bszet\handelskalkulation\handelskalkulation\obj\Debug\handelskalkulation.exe
+C:\Users\dirk\Desktop\sync\lehrer\unterricht\software\bszet\handelskalkulation\handelskalkulation\obj\Debug\handelskalkulation.pdb
+C:\Users\dirk\Desktop\sync\lehrer\unterricht\software\bszet\handelskalkulation\handelskalkulation\obj\Debug\handelskalkulation.csprojAssemblyReference.cache
